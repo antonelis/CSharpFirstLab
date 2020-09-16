@@ -1,0 +1,13 @@
+C:\Users\anton\source\repos\CSharpFirstLab\CSharpFirstLab\bin\Debug\netcoreapp3.1\CSharpFirstLab.exe
+C:\Users\anton\source\repos\CSharpFirstLab\CSharpFirstLab\bin\Debug\netcoreapp3.1\CSharpFirstLab.deps.json
+C:\Users\anton\source\repos\CSharpFirstLab\CSharpFirstLab\bin\Debug\netcoreapp3.1\CSharpFirstLab.runtimeconfig.json
+C:\Users\anton\source\repos\CSharpFirstLab\CSharpFirstLab\bin\Debug\netcoreapp3.1\CSharpFirstLab.runtimeconfig.dev.json
+C:\Users\anton\source\repos\CSharpFirstLab\CSharpFirstLab\bin\Debug\netcoreapp3.1\CSharpFirstLab.dll
+C:\Users\anton\source\repos\CSharpFirstLab\CSharpFirstLab\bin\Debug\netcoreapp3.1\CSharpFirstLab.pdb
+C:\Users\anton\source\repos\CSharpFirstLab\CSharpFirstLab\obj\Debug\netcoreapp3.1\CSharpFirstLab.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\CSharpFirstLab\CSharpFirstLab\obj\Debug\netcoreapp3.1\CSharpFirstLab.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\CSharpFirstLab\CSharpFirstLab\obj\Debug\netcoreapp3.1\CSharpFirstLab.AssemblyInfo.cs
+C:\Users\anton\source\repos\CSharpFirstLab\CSharpFirstLab\obj\Debug\netcoreapp3.1\CSharpFirstLab.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\CSharpFirstLab\CSharpFirstLab\obj\Debug\netcoreapp3.1\CSharpFirstLab.dll
+C:\Users\anton\source\repos\CSharpFirstLab\CSharpFirstLab\obj\Debug\netcoreapp3.1\CSharpFirstLab.pdb
+C:\Users\anton\source\repos\CSharpFirstLab\CSharpFirstLab\obj\Debug\netcoreapp3.1\CSharpFirstLab.genruntimeconfig.cache
